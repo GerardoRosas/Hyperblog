@@ -2,4 +2,4 @@ Esta es la historia de Gerardo de como empezó como desarrollador
 
 Gerardo Rosas tiene 23 años y nació en Culiacán, viviendo en la CDMX
 
-Hoy aprenderemos Git y GitHub
+Hoy aprenderemos como hacer branches locales y remotas
