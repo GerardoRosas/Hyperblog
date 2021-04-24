@@ -13,6 +13,8 @@ body{
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
+    display: flex;
+    flex-direction: column;
 }
 
 #container h1{
