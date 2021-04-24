@@ -52,3 +52,22 @@ body{
     padding: 0.5rem 0;
     position: relative;
 }
+
+.subscribe{
+    background: cornflowerblue;
+    color: wheat;
+    margin-bottom: 2rem;
+}
+
+#changemymind{
+    font-size: 20px;
+    font-family: cursive;
+    font-weight: bold;
+}
+.content{
+    margin-top: 5rem;
+    background: palevioletred;
+    width: 33%;
+    height: 5rem;
+    text-align: end;
+}
