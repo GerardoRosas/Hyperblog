@@ -37,3 +37,18 @@ body{
 #post{
     padding: 1em;
 }
+
+.footer{
+    background: palegreen;
+    margin: 0 auto;
+    padding: 0;
+    height: 2em;
+    text-align: center;
+}
+
+.footer p{
+    font-size: 15px;
+    font-family: 'Lucida Sans';
+    padding: 0.5rem 0;
+    position: relative;
+}
