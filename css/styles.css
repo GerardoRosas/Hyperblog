@@ -13,8 +13,6 @@ body{
     text-align: left;
     border: 1px solid #DDD;
     margin: 0 auto;
-    display: flex;
-    flex-direction: column;
 }
 
 #container h1{
@@ -53,4 +51,12 @@ body{
     font-family: 'Lucida Sans';
     padding: 0.5rem 0;
     position: relative;
+}
+
+.content{
+    margin-top: 5rem;
+    background: palevioletred;
+    width: 33%;
+    height: 5rem;
+    text-align: end;
 }
