@@ -30,8 +30,9 @@ body{
 }
 
 #header #logo{
-    width: 50px;
+    
     vertical-align: middle;
+    width: 60px;
 }
 
 #header #Tagline{
